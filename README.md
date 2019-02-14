@@ -1,2 +1,2 @@
-# MVC
+# Design Patterns
 MVC pattern example
